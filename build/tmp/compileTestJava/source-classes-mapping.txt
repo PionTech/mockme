@@ -1,0 +1,32 @@
+io/piontech/config/ConfigTest.java
+ io.piontech.config.ConfigTest
+io/piontech/mockme/MockmeApplicationTests.java
+ io.piontech.mockme.MockmeApplicationTests
+io/piontech/mockme/UserIntegrationTest.java
+ io.piontech.mockme.UserIntegrationTest
+io/piontech/mockme/TokenExpirationIntegrationTest.java
+ io.piontech.mockme.TokenExpirationIntegrationTest
+io/piontech/mockme/ChangePasswordIntegrationTest.java
+ io.piontech.mockme.ChangePasswordIntegrationTest
+io/piontech/config/TestIntegrationConfig.java
+ io.piontech.config.TestIntegrationConfig
+io/piontech/config/TestDbConfig.java
+ io.piontech.config.TestDbConfig
+io/piontech/mockme/SpringSecurityRolesIntegrationTest.java
+ io.piontech.mockme.SpringSecurityRolesIntegrationTest
+io/piontech/mockme/UserServiceIntegrationTest.java
+ io.piontech.mockme.UserServiceIntegrationTest
+io/piontech/mockme/LocalizationIntegrationTest.java
+ io.piontech.mockme.LocalizationIntegrationTest
+io/piontech/config/TestTaskConfig.java
+ io.piontech.config.TestTaskConfig
+io/piontech/mockme/DeviceServiceIntegrationTest.java
+ io.piontech.mockme.DeviceServiceIntegrationTest
+io/piontech/mockme/RegistrationPasswordLiveTest.java
+ io.piontech.mockme.RegistrationPasswordLiveTest
+io/piontech/mockme/GetLoggedUsersIntegrationTest.java
+ io.piontech.mockme.GetLoggedUsersIntegrationTest
+io/piontech/mockme/IntegrationSuite.java
+ io.piontech.mockme.IntegrationSuite
+io/piontech/mockme/RegistrationControllerIntegrationTest.java
+ io.piontech.mockme.RegistrationControllerIntegrationTest
